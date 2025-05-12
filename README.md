@@ -64,8 +64,6 @@ The EDA was done using **Pandas, Seaborn, and Matplotlib** in Jupyter Notebook. 
 
 📸 **Jupyter EDA Screenshots**:
 
-> Paste or link your screenshots from EDA visualizations here (or add them to your GitHub and use markdown below):
-
 ```markdown
 ![Age Distribution](./images/age_distribution.png)
 ![Survival by Class](./images/survival_class.png)
@@ -89,14 +87,14 @@ To prepare the data for modeling and insights:
 
 ## 🗂 Files Included in Repository
 
-| File/Folder              | Description                                                       |
-| ------------------------ | ----------------------------------------------------------------- |
-| `raw_data.csv`           | Original Titanic dataset from Kaggle                              |
-| `clean_data.csv`         | Cleaned version after preprocessing                               |
-| `Titanic_EDA.ipynb`      | Jupyter notebook with data cleaning, EDA, and feature engineering |
-| `PowerBI_Dashboard.pbix` | Power BI report file                                              |
-| `titanic db ss.png`      | Power BI dashboard screenshot                                     |
-| `README.md`              | This file                                                         |
+| File/Folder                    | Description                                                       |
+| ------------------------       | ----------------------------------------------------------------- |
+| `titanic_raw_data.csv`         | Original Titanic dataset from Kaggle                              |
+| `titanic clean dataset utf.csv`| Cleaned version after preprocessing                               |
+| `titanic_jupyter_code.ipynb`   | Jupyter notebook with data cleaning, EDA, and feature engineering |
+| `Titanic Dashboard.pbix`       | Power BI report file                                              |
+| `titanic db ss.png`            | Power BI dashboard screenshot                                     |
+| `README.md`                    | This file                                                         |
 
 ---
 
