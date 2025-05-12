@@ -62,16 +62,6 @@ The EDA was done using **Pandas, Seaborn, and Matplotlib** in Jupyter Notebook. 
 * Visualizing feature distributions
 * Analyzing survival correlations
 
-📸 **Jupyter EDA Screenshots**:
-
-```markdown
-![Age Distribution](./images/age_distribution.png)
-![Survival by Class](./Images/survival by class.png)
-![survivor & non-survivor count](Images/survivor & non survivor.png)
-```
-
----
-
 ## 🛠 Feature Engineering
 
 To prepare the data for modeling and insights:
