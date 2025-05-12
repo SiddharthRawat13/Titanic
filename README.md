@@ -49,7 +49,7 @@ This project provides a comprehensive analysis of the **Titanic passenger surviv
 
 * 📁 **[Raw Dataset](https://www.kaggle.com/competitions/titanic/data)** (Kaggle)
 * 📊 [Power BI Dashboard (Hosted powerbi workspace)](https://app.powerbi.com/groups/me/reports/b74902d9-008d-4619-bb0d-db98e56b138e/98b7953f60da000006b7?experience=power-bi)
-* 📄 **[Jupyter Notebook - EDA & Feature Engineering](link_to_your_notebook_in_repo)**
+* 📄 **[Jupyter Notebook - EDA & Feature Engineering]([link_to_your_notebook_in_repo](https://github.com/SiddharthRawat13/Titanic-survival-dashboard/blob/main/titanic_jupyter_code.ipynb))**
 
 ---
 
