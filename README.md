@@ -110,7 +110,7 @@ To prepare the data for modeling and insights:
 
 ---
 
-## 💼 Why This Project Matters (for Recruiters)
+## 💼 Why This Project Matters.
 
 This project showcases:
 
@@ -121,9 +121,3 @@ This project showcases:
 
 ---
 
-## 📩 Contact
-
-📧 Siddharth | 📍 Berlin, Germany
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
-
----
