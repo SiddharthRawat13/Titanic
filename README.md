@@ -1,4 +1,4 @@
-# 🚢 Titanic Passenger Survival Dashboard Project
+# 🚢 [Titanic Passenger Survival Dashboard Project](https://app.powerbi.com/groups/me/reports/b74902d9-008d-4619-bb0d-db98e56b138e/98b7953f60da000006b7?experience=power-bi)
 
 ## 📊 Project Overview
 
@@ -49,7 +49,7 @@ This project provides a comprehensive analysis of the **Titanic passenger surviv
 
 * 📁 **[Raw Dataset](https://www.kaggle.com/competitions/titanic/data)** (Kaggle)
 * 📊 [Power BI Dashboard (Hosted powerbi workspace)](https://app.powerbi.com/groups/me/reports/b74902d9-008d-4619-bb0d-db98e56b138e/98b7953f60da000006b7?experience=power-bi)
-* 📄 **[Jupyter Notebook - EDA & Feature Engineering]([link_to_your_notebook_in_repo](https://github.com/SiddharthRawat13/Titanic-survival-dashboard/blob/main/titanic_jupyter_code.ipynb))**
+* 📄 [Jupyter Notebook - EDA & Feature Engineering](https://github.com/SiddharthRawat13/Titanic-survival-dashboard/blob/d10b4cfd39836802e7d55bd1a5ea01e8f15b50e3/titanic_jupyter_code.ipynb)
 
 ---
 
@@ -66,8 +66,8 @@ The EDA was done using **Pandas, Seaborn, and Matplotlib** in Jupyter Notebook. 
 
 ```markdown
 ![Age Distribution](./images/age_distribution.png)
-![Survival by Class](./images/survival_class.png)
-![Correlation Heatmap](./images/correlation.png)
+![Survival by Class](./Images/survival by class.png)
+![survivor & non-survivor count](Images/survivor & non survivor.png)
 ```
 
 ---
