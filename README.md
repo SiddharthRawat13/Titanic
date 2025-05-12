@@ -12,13 +12,6 @@ This project provides a comprehensive analysis of the **Titanic passenger surviv
 
 ---
 
-## 🔗 Project Links
-
-* 📁 **[Raw Dataset](https://www.kaggle.com/competitions/titanic/data)** (Kaggle)
-* 📊 [Power BI Dashboard (Hosted powerbi workspace)](https://app.powerbi.com/groups/me/reports/b74902d9-008d-4619-bb0d-db98e56b138e/98b7953f60da000006b7?experience=power-bi)
-* 📄 **[Jupyter Notebook - EDA & Feature Engineering](link_to_your_notebook_in_repo)**
-
----
 ## 🧠 Key Visual Insights from Dashboard
 ![Titanic Dashboard Screenshot](./titanic%20db%20ss.png)
 
@@ -49,6 +42,16 @@ This project provides a comprehensive analysis of the **Titanic passenger surviv
 8️⃣ **Survival by Family Size (Line/Bar Chart)**
 • Passengers with **1–3 family members** had better chances of survival.
 • Those **traveling alone** or with **larger families** had lower survival rates.
+
+---
+
+## 🔗 Project Links
+
+* 📁 **[Raw Dataset](https://www.kaggle.com/competitions/titanic/data)** (Kaggle)
+* 📊 [Power BI Dashboard (Hosted powerbi workspace)](https://app.powerbi.com/groups/me/reports/b74902d9-008d-4619-bb0d-db98e56b138e/98b7953f60da000006b7?experience=power-bi)
+* 📄 **[Jupyter Notebook - EDA & Feature Engineering](link_to_your_notebook_in_repo)**
+
+---
 
 ## 🧪 Exploratory Data Analysis (EDA)
 
